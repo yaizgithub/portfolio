@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7efe7c8c.css",
-    "main.js": "/portfolio/static/js/main.9a4f2043.js",
+    "main.js": "/portfolio/static/js/main.ab66dffb.js",
     "static/media/master-carwash.png": "/portfolio/static/media/master-carwash.0c755b099d3f1f7fa120.png",
     "static/media/cm.png": "/portfolio/static/media/cm.78e32aa216ce21fa4902.png",
     "static/media/cim.png": "/portfolio/static/media/cim.1f8349fe2773ea467206.png",
@@ -12,10 +12,10 @@
     "static/media/golf.jpg": "/portfolio/static/media/golf.7fcb044b2e6362910848.jpg",
     "index.html": "/portfolio/index.html",
     "main.7efe7c8c.css.map": "/portfolio/static/css/main.7efe7c8c.css.map",
-    "main.9a4f2043.js.map": "/portfolio/static/js/main.9a4f2043.js.map"
+    "main.ab66dffb.js.map": "/portfolio/static/js/main.ab66dffb.js.map"
   },
   "entrypoints": [
     "static/css/main.7efe7c8c.css",
-    "static/js/main.9a4f2043.js"
+    "static/js/main.ab66dffb.js"
   ]
 }
