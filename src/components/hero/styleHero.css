@@ -1,0 +1,21 @@
+#hero{
+    height: 100vh;
+}
+
+.inner li{
+    animation: animate 10s ease infinite;
+    animation-delay: 2s;
+    /* position: relative;     */
+}
+@keyframes animate {
+    10%{transform: translateY(-112%)}
+    25%{transform: translateY(-100%)}
+    35%{transform: translateY(-212%)}
+    45%{transform: translateY(-200%)}
+    55%{transform: translateY(-312%)}
+    65%{transform: translateY(-300%)}
+    75%{transform: translateY(-412%)}
+    85%{transform: translateY(-400%)}
+    95%{transform: translateY(-512%)}    
+    100%{transform: translateY(-500%)}    
+}

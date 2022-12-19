@@ -1,0 +1,18 @@
+/* #skill{
+  height: 100vh;
+} */
+
+
+.circular-progress-html{
+    background: conic-gradient(#063970 286deg, #ededed 0deg);
+  }
+  .circular-progress-css{
+    background: conic-gradient(#063970 327deg, #ededed 0deg);
+  }
+  .circular-progress-nodejs{
+    background: conic-gradient(#063970 131deg, #ededed 0deg);
+  }
+  .circular-progress-react{
+    background: conic-gradient(#063970 311deg, #ededed 0deg);
+  }
+  

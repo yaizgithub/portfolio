@@ -1,0 +1,8 @@
+.mynavbar{
+    backdrop-filter: blur(5px);
+}
+
+.is-hover{
+    @apply hover:border hover:border-y-0 hover:px-2 hover:border-primary hover:text-orange-600
+    px-2 border border-y-0 border-transparent cursor-pointer;
+}
