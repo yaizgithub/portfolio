@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.eb3ca34a.css",
-    "main.js": "/portfolio/static/js/main.47e5fa7c.js",
+    "main.css": "/portfolio/static/css/main.46037991.css",
+    "main.js": "/portfolio/static/js/main.831ef37b.js",
     "static/media/master-carwash.png": "/portfolio/static/media/master-carwash.5786a99f50f91431a365.png",
     "static/media/me-bg3.png": "/portfolio/static/media/me-bg3.c6bba4f10bfd48e7a9ac.png",
     "static/media/cm.png": "/portfolio/static/media/cm.209cfca391e5879c3e0f.png",
@@ -12,11 +12,11 @@
     "static/media/bg7.jpg": "/portfolio/static/media/bg7.d85fa7c2982911c0bbbe.jpg",
     "static/media/sedayu.png": "/portfolio/static/media/sedayu.22aa5bfb3f36c27ecf75.png",
     "index.html": "/portfolio/index.html",
-    "main.eb3ca34a.css.map": "/portfolio/static/css/main.eb3ca34a.css.map",
-    "main.47e5fa7c.js.map": "/portfolio/static/js/main.47e5fa7c.js.map"
+    "main.46037991.css.map": "/portfolio/static/css/main.46037991.css.map",
+    "main.831ef37b.js.map": "/portfolio/static/js/main.831ef37b.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb3ca34a.css",
-    "static/js/main.47e5fa7c.js"
+    "static/css/main.46037991.css",
+    "static/js/main.831ef37b.js"
   ]
 }
